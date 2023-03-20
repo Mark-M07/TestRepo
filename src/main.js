@@ -235,7 +235,3 @@ class HackNSlashDemo {
     this._entityManager.Update(timeElapsedS);
   }
 }
-
-window.addEventListener('DOMContentLoaded', () => {
-  new HackNSlashDemo();
-});
